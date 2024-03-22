@@ -14,7 +14,7 @@ Teuku Risyad Ramadhan. software engineering student living in Purbalingga, Centr
 &nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=white" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=blue" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
 &nbsp;
