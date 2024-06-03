@@ -41,6 +41,10 @@ Teuku Risyad Ramadhan. software engineering student living in Purbalingga, Centr
 
 ## 📖  What I am currently learning / improving on
 
+[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=00DCFF" alt="React logo" title="React" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/JetpackCompose-282C34?logo=jetpackcompose&logoColor=4086F4" alt="Jetpack Compose logo" title="Jetpack Compose" height="25" />][learning_now_anchor]
@@ -51,13 +55,9 @@ Teuku Risyad Ramadhan. software engineering student living in Purbalingga, Centr
 
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=00DCFF" alt="React logo" title="React" height="25" />][learning_next_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/R-282C34?logo=r&logoColor=1B67BB" alt="R logo" title="R" height="25" />][learning_next_anchor]
 
